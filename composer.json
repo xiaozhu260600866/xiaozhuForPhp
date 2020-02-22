@@ -1,6 +1,6 @@
 {
 
-	"name": "xiaozhu_php",
+	"name": "xiaozhuForPhp",
 	"authors": [
         {
             "name": "xiaozhu",
@@ -9,7 +9,7 @@
     ],
     "autoload": {
    	 "psr-4": {
-        "Xiaozhu\\": "src/"
+        "XiaozhuForPhp\\": "src/"
     	}
 	},
     "require": {}
