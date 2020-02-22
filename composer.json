@@ -1,16 +1,16 @@
 {
 
-	"name": "xiaozhu_php/admin",
-	"authors": [
+    "name": "xiaozhu_php/admin",
+    "authors": [
         {
             "name": "xiaozhu",
             "email": "260600866@qq.com"
         }
     ],
     "autoload": {
-   	 "psr-4": {
-        "XiaozhuForPhp\\": "src/"
-    	}
-	},
+     "psr-4": {
+        "XiaozhuPhp\\": "src/"
+        }
+    },
     "require": {}
 }
